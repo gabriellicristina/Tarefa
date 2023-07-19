@@ -1,0 +1,5 @@
+Através do BootCamp "Do Zero ao Primeiro Site", tive a oportunidade de aprimorar minhas habilidades em várias áreas essenciais para a criação de sites. Durante o programa, adquiri conhecimento em Bootstrap, aprendi os comandos básicos do Git e GitHub, assim como os fundamentos do HTML e CSS. Além disso, tive a chance de trabalhar com JavaScript em projetos práticos.
+
+Destaco a equipe incrivelmente atenciosa, que sempre esteve disponível para esclarecer dúvidas e fornecer feedbacks construtivos sobre o meu progresso. Essa interação constante foi extremamente valiosa para o meu desenvolvimento.
+
+As semanas que passei nesse BootCamp foram verdadeiramente transformadoras, tanto do ponto de vista técnico quanto pessoal. Foi uma experiência enriquecedora que me permitiu expandir meu conhecimento e me desafiar a alcançar resultados excepcionais.
